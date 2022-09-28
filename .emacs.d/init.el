@@ -1,3 +1,6 @@
+;; window initialized configuration
+(load-file "~/.emacs.d/init-window.el")
+
 ;; set variable `spacemacs-start-directory' to point to your Spacemacs
 ;; installation location, "~" is equivalent to "$HOME"
 (setq spacemacs-start-directory "~/.emacs.d/spacemacs/")
