@@ -1,0 +1,6 @@
+.spacemacs
+.spacemacs.env
+.cache
+recentf
+projectile-bookmarks.eld
+eln-cache
